@@ -1,4 +1,4 @@
-import logo from './Lisa_Murphy-PhotoRoom.png-PhotoRoom.png';
+import logo from './iphone-x-pictures-45216.png';
 // import { ReactComponent as Logo } from './PEPE.svg';
 import './App.css';
 
@@ -14,7 +14,7 @@ function App() {
         <Logo fill='red' stroke='green' className="App-logo" alt="logo" />
         </div> */}
         <p>
-          This is my sexy girlfriend
+          Free IPHONE!!!
         </p>
         <a
         className="App-link"
